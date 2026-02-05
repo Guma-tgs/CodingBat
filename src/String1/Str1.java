@@ -9,6 +9,7 @@ public class Str1 {
         String str2 = scan.nextLine();
         System.out.println("Hellо " + str2 +"!");
 
+        System.out.println("First add");
     }
 
 }
