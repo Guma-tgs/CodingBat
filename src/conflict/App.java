@@ -5,6 +5,7 @@ public class App {
 
         System.out.println("Hello from feature");
         System.out.println("Hello from feature");
+        System.out.println("Hi");
 
     }
 }
